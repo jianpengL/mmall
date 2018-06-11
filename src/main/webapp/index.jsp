@@ -72,8 +72,8 @@ myFocus.set({
       <div class="pic"><!--内容列表(li数目可随意增减)-->
         <ul>
           <li><a href="#"><img src="images/ad2.jpg" thumb="" alt="" text="详细描述2" /></a></li>
-          <li><a href="#"><img src="images/hi.jpg" thumb="" alt="" text="详细描述3" /></a></li>
-          <li><a href="#"><img src="images/hii.jpg" thumb="" alt="" text="详细描述4" /></a></li>
+          <li><a href="#"><img src="images/hi.jpg" thumb="" alt="" text="详细描述3" style="width: 1252px;height: 399px;"/></a></li>
+          <li><a href="#"><img src="images/hii.jpg" thumb="" alt="" text="详细描述4" style="width: 1252px;height: 399px;"/></a></li>
           <li><a href="#"><img src="images/ad3.jpg" thumb="" alt="" text="详细描述5" /></a></li>
         </ul>
       </div>
