@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>企业网站实例</title>
+<title>HappyCoding网站实例</title>
 <link href="css/main.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="js/setHomeSetFav.js"></script>
 <script type="text/javascript" src="js/myfocus-2.0.1.min.js" charset="utf-8"></script><!--引入myFocus库-->
@@ -71,10 +71,10 @@ myFocus.set({
       <!--载入画面(可删除)-->
       <div class="pic"><!--内容列表(li数目可随意增减)-->
         <ul>
-          <li><a href="#"><img src="images/20180611.jpg" thumb="" alt="" text="详细描述2" /></a></li>
-          <li><a href="#"><img src="images/20180610.jpg" thumb="" alt="" text="详细描述3" style="width: 1252px;height: 399px;"/></a></li>
-          <li><a href="#"><img src="images/ad2.jpg" thumb="" alt="" text="详细描述4" style="width: 1252px;height: 399px;"/></a></li>
-          <li><a href="#"><img src="images/ad3.jpg" thumb="" alt="" text="详细描述5" /></a></li>
+          <li><a href="#"><img src="images/ad.jpg" thumb="" alt="" text="详细描述2" /></a></li>
+          <li><a href="#"><img src="images/ad2.jpg" thumb="" alt="" text="详细描述3" style="width: 1252px;height: 399px;"/></a></li>
+          <li><a href="#"><img src="images/ad3.jpg" thumb="" alt="" text="详细描述4" style="width: 1252px;height: 399px;"/></a></li>
+          <li><a href="#"><img src="images/ad4.jpg" thumb="" alt="" text="详细描述5" /></a></li>
         </ul>
       </div>
     </div>
